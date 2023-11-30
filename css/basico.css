@@ -1,0 +1,123 @@
+body{
+ 
+}
+.cuerpo{
+  margin-left: 2%;
+}
+.Menu{
+  color: black;
+
+}
+h1{
+  text-align: center;
+}
+.Imagen
+{float: right;
+width: 20%;
+border: solid;
+border-color:cadetblue;
+margin-right: 2%;
+border-radius: 20px;
+}
+.anuncio{
+  color: white;
+  background-color: black;
+  
+  
+}
+.iman{
+  width: 30%;
+  margin-top: 2%;
+  margin-left: 2%;
+  border-color: white;
+  border: solid;
+  
+}
+a:visited{
+  color:  black;
+}
+a:hover{
+  color: aqua;
+}
+a:active{
+  color: cadetblue;
+}
+.logo{
+  width: 50px;
+}
+.datos{
+  text-align: center;
+}
+.datos2{
+  margin-left: 25%;
+  text-align: center;
+  width: 50%;
+}
+.inicio{
+  width: 55%;
+  border: solid;
+  color: aqua;
+  border-radius: 20px;
+  
+}
+.los{
+  text-align: center;
+}
+.P{
+  color: aqua;
+  
+}
+.y{
+  color: chartreuse;
+ 
+}
+.S{
+  color: darkblue;
+  
+}
+.o{
+  color:coral;
+  
+}
+.l{
+  color: deepskyblue;
+  
+}
+.foto{
+  width: 50%;
+  
+}
+table{
+  margin: 0 auto;
+  border: solid;
+  text-align: center;
+width: 90%;
+}
+table,tr,th{
+  border-collapse: collapse;
+}
+.dias{
+  background-color: darkgray;
+  
+}
+.numero{
+  color: black;
+  background-color: red; 
+  
+  
+}
+.numero2,a:hover{
+  color: black;
+  background-color: cadetblue; 
+  border-radius: 20px;
+}
+.color{
+  background-color: red; 
+  color: red; 
+  border-radius: 20px;
+}
+.color2{
+  background-color: cadetblue;
+  color: cadetblue;
+  border-radius: 20px;
+}
